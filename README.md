@@ -7,4 +7,4 @@ We'll be trying to predict a classification- survival or deceased. Let's begin o
 
 We'll use a "semi-cleaned" version of the titanic data set, if you use the data set hosted directly on Kaggle or github, you may need to do some additional cleaning not shown in this lecture notebook
 
-The project collab link:https://colab.research.google.com/drive/1vaPSGJhmPId-B_pdapQsDMkDAzJcSKeA?usp=drive_link
+for more information we will provide google collab link:https://colab.research.google.com/drive/1vaPSGJhmPId-B_pdapQsDMkDAzJcSKeA?usp=drive_link
